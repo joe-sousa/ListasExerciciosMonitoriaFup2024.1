@@ -1,0 +1,6 @@
+Nome estudante 1: Jose da Silva
+ Idade estudante 1: 28
+ Nota estudante 1: 5.00
+ Nome estudante 2: Maria da Silva
+ Idade estudante 2: 25
+ Nota estudante 2: 7.00
